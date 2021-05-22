@@ -1,4 +1,4 @@
-#my_WRO_project
+# my_WRO_project
 My description
 
 Do
@@ -6,6 +6,6 @@ While
 if
 else
 
-##useful links
+## useful links
 
-############################################### Why are you gay?
+###### Why are you gay?
